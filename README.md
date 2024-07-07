@@ -34,9 +34,8 @@ A keylogger is a program that records every keystroke made by a user. This proje
     python keylogger.py
     ```
 
-2. The keylogger will start running and log all key presses to `typed_keys.txt` in the same directory.
+2. The keylogger will start running and log all key presses to `typed_keys.txt` in the specified directory.
 
 ## Disclaimer
 
 **Warning**: This keylogger project is for educational purposes only. Unauthorized use of this software to monitor or log keystrokes of another individual without their explicit permission is illegal and unethical. Always obtain consent before using this tool. This tool is only for learning and demonstartion purpose - `salmanfareeth`.
-
